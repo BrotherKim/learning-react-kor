@@ -7,12 +7,12 @@
 
 ### Table of Contents
 
-* __Chapter 1__ : [리액트 소개](./chapter-01)
+* __Chapter 1__ : [리액트 소개](./chapter-01) // 환경설정 및 7월 말까지
 * __Chapter 2__ : [최신 자바스크립트](./chapter-02)
-* __Chapter 3__ : [자바스크립트를 활용한 함수형 프로그래밍](./chapter-03)
+* __Chapter 3__ : [자바스크립트를 활용한 함수형 프로그래밍](./chapter-03) // 8월 말까지
 * __Chapter 4__ : [순수 리액트](./chapter-04)
 * __Chapter 5__ : [JSX를 사용하는 리액트](./chapter-05)
-* __Chapter 6__ : [프로퍼티, 상태, 콤포넌트 트리](./chapter-06)
+* __Chapter 6__ : [프로퍼티, 상태, 콤포넌트 트리](./chapter-06) // 9월 말까지
 * __Chapter 7__ : [콤포넌트 개선하기](./chapter-07)
 * __Chapter 8__ : [리덕스](./chapter-08)
 * __Chapter 9__ : [리액트 리덕스](./chapter-09)
